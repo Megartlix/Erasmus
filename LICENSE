@@ -1,24 +1,18 @@
-BSD 2-Clause License
+TARIMSİS Uygulaması - Lisans Sözleşmesi
 
-Copyright (c) 2024, Megartlix
+Bu yazılım TARIMSİS ("Yazılım"), yalnızca kişisel ve ticari olmayan amaçlarla kullanılmak üzere lisanslanmıştır. Bu yazılımın her türlü dağıtımı, satışı ve ticari kullanımı kesinlikle yasaktır.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+1. Lisans Verilmesi
+Yazılımın kullanıcıya verilen lisans, yalnızca kişisel kullanım ve uygulamanın amaçlarına uygun olarak sınırlıdır. Kullanıcı, bu yazılımı yalnızca belirtilen kullanım şartlarına ve ilgili yasalara uygun olarak kullanabilir.
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+2. Ticari Kullanım ve Dağıtım Yasakları
+Yazılımın kaynak kodu, ikili dosyaları, belgeleri veya herhangi bir parçası ticari olarak satılamaz, kiralanamaz, dağıtılamaz veya yeniden satılamaz. Yazılım, yalnızca kişisel kullanım veya kamu yararına yönelik olmayan projeler için kullanılabilir.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+3. Modifikasyon ve Dağıtım Kısıtlamaları
+Yazılımın herhangi bir kısmını değiştirmek, türev çalışmalar oluşturmak, veya üçüncü şahıslara dağıtmak yasaktır. Herhangi bir izinsiz değişiklik, dağıtım veya ticari kullanım durumunda, kullanıcı yasal sorumluluk taşır.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+4. Sorumluluk Reddi
+Yazılım "olduğu gibi" sunulmaktadır ve kullanımından doğabilecek herhangi bir zarar, kayıp veya başka bir olumsuz durumdan TARIMSİS geliştiricileri veya sahipleri sorumlu tutulamaz. Kullanıcı, yazılımı kendi riskine göre kullanmayı kabul eder.
+
+5. Uygulanan Hukuk
+Bu lisans sözleşmesi, Türkiye Cumhuriyeti yasalarına tabidir. Bu yazılımın kullanımı, dağıtımı veya türev çalışmalarının yapılması durumunda yalnızca Türk mahkemeleri yetkilidir.
